@@ -47,7 +47,7 @@ A remote repository is a version of your project hosted on a platform like GitHu
 3. Commit changes by adding a commit message.
 4. Click 'Commit Changes.'
 
-![Drag and Drop](images/drag_and_drop.png)
+![image](https://github.com/FREDVUNI/git-and-github-for-beginners/assets/41730664/15d8b561-023b-4f7b-8d05-1647d74a00ee)
 
 ## Clone the Repository 📥
 To work on your project locally:
