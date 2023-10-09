@@ -63,20 +63,20 @@ To work on your project locally:
 
 ## Creating a Local Project 🏗️
 1. Create a project directory.
-2. Initialize Git with `git init`.
-3. Add files with `git add .`.
+2. Initialize Git with `git init`
+3. Add files with `git add .`
 4. Commit changes with `git commit -m "Initial commit."`
 5. Create a repository on GitHub.
 6. Set the remote with `git remote add origin <repository_url>`.
-7. Rename the default branch to 'main' with `git branch -M main`.
-8. Push changes with `git push -u origin main`.
+7. Rename the default branch to 'main' with `git branch -M main`
+8. Push changes with `git push -u origin main`
 
 ## Branching 🌿
 A branch is a separate line of development in Git. It allows you to work on features or fixes independently.
 
 ## Creating a Branch 🎉
 1. Use `git branch <branch_name>` to create a new branch.
-2. Switch to the new branch with `git checkout <branch_name>` or `git switch <branch_name>`.
+2. Switch to the new branch with `git checkout <branch_name>` or `git switch <branch_name>`
 
 ## Changing the Default Branch to 'main' 🔄
 The 'main' branch has replaced 'master' as the default in Git to promote inclusivity and avoid historical connotations.
@@ -87,7 +87,7 @@ To rename your default branch to 'main':
 ## Working with Branches 💪
 1. Create and switch to a new branch.
 2. Make changes, commit them, and push to your remote repository.
-3. Merge changes back to 'main' using `git merge <branch_name>`.
+3. Merge changes back to 'main' using `git merge <branch_name>`
 
 ## Merging Changes 🤝
 1. Ensure you are on the 'main' branch.
