@@ -3,7 +3,7 @@
 Welcome to the world of version control, collaboration with Git and GitHub, and deploying your projects with GitHub Pages! This comprehensive guide will cover the basics, advanced topics, collaborative workflows, GitHub features, troubleshooting tips, and everything you need to master these tools. 🚀
 
 ## Table of Contents
-1. [**What is Git?**](#what-is-git)
+1. [What is Git?](#what-is-git)
 2. [**What is GitHub?**](#what-is-github)
 3. [**Local Repository**](#local-repository)
 4. [**Remote Repository**](#remote-repository)
